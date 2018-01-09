@@ -1,0 +1,8 @@
+Parallel Story
+------------------
+-> Version Info
+1. System class Must be imported for that
+ and then version_info[] gives the info and it is an array 
+*0th key->Major Version
+*1st Key->Minor Release
+*3rd Key->Micro Release 
